@@ -1,0 +1,4 @@
+Documentación de solución de la rama bugfix
+
+Esta rama corresponde a la actividad de versionamiento con GitHub.
+Se crea la rama bugfix para documentar la solución solicitada en la actividad.
