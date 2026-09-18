@@ -1,0 +1,4 @@
+DOCUMENTACIÓN RAMA HOTFIX
+
+Se creó la rama hotfix para realizar cambios urgentes o de corrección.
+Se agregó este archivo como evidencia del trabajo realizado en la rama.
